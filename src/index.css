@@ -3,6 +3,10 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+ul {
+    list-style: none;
+}
+
 .text {
     font-weight: 300;
     font-size: 5rem;
@@ -38,3 +42,5 @@ body {
     align-items: center;
     text-align: center;
 }
+
+

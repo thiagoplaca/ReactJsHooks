@@ -4,9 +4,10 @@ import React from 'react'
 
 import App from './views/App'
 
+
 const rootEl = document.getElementById('root')
 const root = ReactDOMClient.createRoot(rootEl)
 root.render(
-    <App />
+        <App />
 )
 
